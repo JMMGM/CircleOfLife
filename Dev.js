@@ -28,7 +28,7 @@ function onYouTubePlayerAPIReady() {
     player = new YT.Player('video', {
         height: '200',
         width: '357',
-        playerVars: {cc_load_policy: 1},
+        playerVars: {cc_load_policy: 1, playsinline: 1},
         videoId: 'w9u21s1wuok',
         events: {
             'onStateChange': onPlayerStateChange
