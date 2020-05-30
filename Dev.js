@@ -96,7 +96,7 @@ const tableauDiscours = [
     "et nous devons respecter toutes les créatures",
     "de la fourmi qui rampe à l'antilope qui bondit.",
     "Et même si les lions mangent les antilopes,",
-    "quand nous mourrons notre corps se transforme en herbe",
+    "quand nous mourons notre corps se transforme en herbe",
     "et les antilopes mangent l'herbe.",
     "C'est comme les maillons d'une chaîne dans le grand cycle de la vie.",
     "Le temps que nous passons à vivre ressemble à la course du soleil.",
