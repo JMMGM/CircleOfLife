@@ -1,0 +1,32 @@
+body{
+    height: 100%;
+    width: 100%;
+    margin : 0;
+    padding: 10px 0;
+}
+
+#global{
+    text-align: center;
+}
+
+#video{
+    margin: 0 auto;
+}
+
+#text {
+    font-family: 'Open Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 10px 0;
+    font-size: 0.9em;
+}
+
+#alert {
+    font-family: 'Open Sans', Arial, sans-serif;
+    color: black;
+    font-size: 1.2em;
+    font-weight: bold;
+}
+
+#coming{
+    font-family: 'Tenor Sans', sans-serif;
+}
